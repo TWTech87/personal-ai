@@ -10,7 +10,7 @@
   },
   "license": "MIT",
   "dependencies": {
-    "hono": "^2.5.7",
+    "hono": "^4.11.4",
     "openai": "^4.40.0"
   },
   "devDependencies": {
